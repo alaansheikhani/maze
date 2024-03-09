@@ -1,0 +1,11 @@
+# repositories
+venv/
+images/
+labels/
+runs/
+
+#oython files
+/video.py
+/tracking.py
+/test.py
+
