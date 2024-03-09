@@ -9,3 +9,4 @@ uvicorn
 streamlit
 streamlit_pydantic
 pillow
+mediapipe
